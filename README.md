@@ -41,7 +41,26 @@
 
 ---
 
-- Proporcionar transporte para visitas en sitio
+## PLANES Y PRECIOS
+
+| Plan | Inversión | Frecuencia de Pago | Servicios |
+|------|-----------|--------------------|-----------|
+| **Semestral** | **$209.000** | Pago único cada 6 meses | 1 visita por periodo - sin asistencia remota |
+| **Anual** | **$650.000** | Pago único anual | 2 visitas por periodo - Asistencia remota Lunes a Viernes en horario laboral |
+| **Premium** | **$150.000** | Mensual ($1.800.000/año) | 4 visitas por periodo - Asistencia remota Lunes a Viernes 24/7 |
+
+### Servicios Adicionales (Fuera de Plan)
+
+- **Soporte Remoto/En Sitio:** 3 UF/hora
+
+**Nota:** Todos los precios incluyen impuestos (retención 14.5% + IVA 19%) y están calculados para asegurar la cobertura técnica especializada.
+
+---
+
+## RESPONSABILIDADES
+
+### Del Cliente
+
 - Dar acceso remoto y credenciales administrativas
 - **Comprar hardware y licencias de software** (a su cargo)
 - Mantener equipos con Windows 11 (Windows 10 sin soporte desde octubre 2025)
